@@ -1,0 +1,14 @@
+{
+  "name": "marias-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/nicolasib/marias-api.git",
+  "author": "nicolasib <design.nicolasib@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11"
+  }
+}
